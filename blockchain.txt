@@ -1,2 +1,3 @@
-andrewmcwatters 1
+andrewmcwatters 0.9999
 lucasburlingham 1
+metapyziks 0.0001
